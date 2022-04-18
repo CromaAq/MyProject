@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/CromaAq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CromaAq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CromaAq&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Viniciuusdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciuusdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuusdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
